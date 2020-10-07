@@ -1,5 +1,5 @@
 # pong-arcade-game
-`pong-arcade-game` is a table tennis themed arcade video game made for fun. This game can be played using a web browser and is cross-browser compatible.
+`pong-arcade-game` is a table tennis themed arcade video game made for fun. This game can be played using a web browser and is cross-browser compatible. *You can play this game [here](https://bhanuvikas.github.io/pong-arcade-game/)*.
 
 # Gameplay:
 Gameplay is simple, we usually need two people to play this arcade game. But for this version of pong, one player is an AI bot. So you will be playing with a simple pong bot.
